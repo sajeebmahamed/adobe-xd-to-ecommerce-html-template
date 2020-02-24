@@ -1,0 +1,52 @@
+.container{
+    padding-bottom: 50px;
+}
+.navbar{
+    border-radius: 10px;
+    background-color: #fff !important;
+}
+.carousel-inner{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.price{
+    color: #FF136F;
+}   
+.search-icon{
+    position: absolute;
+    top: 30%;
+    left: 55%;
+}
+.form-control{
+    border-radius: 10px;
+}
+.btn{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+}
+#carouselExampleIndicators{
+    background-color: #fff;
+}
+#carouselExampleIndicators li.active{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.cat1{
+    background: linear-gradient(145deg, #FF9C35 0%, #FFD019 100%);
+}
+.cat2{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.cat3{
+    background: linear-gradient(105deg, #4289FF 0%, #3F07F8 100%);
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+}
+.shoes .btn{
+    margin: 0 auto;
+}
+.backpack .btn{
+    margin: 0 auto;
+}
